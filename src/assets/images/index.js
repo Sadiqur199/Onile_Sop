@@ -6,6 +6,7 @@ import bannerImgThree from "./banner/bannerImgThree.webp";
 import saleImgOne from "./sale/saleImgOne.webp";
 import saleImgTwo from "./sale/saleImgTwo.webp";
 import saleImgThree from "./sale/saleImgThree.webp";
+import PhoneSaleImage from './sale/Phone sale.png'
 // ============== Products Start here ====================
 // New Arrivals
 import newArrOne from "./products/newArrival/newArrOne.webp";
@@ -40,6 +41,7 @@ export {
   saleImgOne,
   saleImgTwo,
   saleImgThree,
+  PhoneSaleImage,
   // ===================== Products start here ============
   // New Arrivals
   newArrOne,
